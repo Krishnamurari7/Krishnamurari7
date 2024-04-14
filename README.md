@@ -1,12 +1,12 @@
 ### Hi there 👋
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Krishna Murari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
+<!-- <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+</em></p> -->
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/kr_shighaniya)
-[![Linkedin: anmol](https://img.shields.io/badge/-Krishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/krishna-murari-kumar-796b97250/)](https://www.linkedin.com/in/krishna-murari-kumar-796b97250//)
+[![Linkedin: Krishna](https://img.shields.io/badge/-Krishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/krishna-murari-kumar-796b97250/)](https://www.linkedin.com/in/krishna-murari-kumar-796b97250//)
 
 ### 📫 Like to meet me?
 
@@ -26,21 +26,24 @@ npx anmol
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Python", "Java", "PHP"],
-    askMeAbout: ["web dev", "tech", "app dev", "photography"],
+    code: ["Javascript", "Python", "C"],
+    askMeAbout: ["web dev", "tech", "app dev"],
     technologies: {
+        Fronted:{
+            code: ["Html","Css","Tailwind","React.js","Bootstrap"]
+        },
         backEnd: {
             js: ["Node", "Fastify", "Express"],
         },
         mobileApp: {
-            native: ["Android Development"]
+            native: ["Android Development","React-Native"]
         },
         devOps: ["AWS", "Docker🐳", "Route53", "Nginx"],
-        databases: ["mongo", "MySql", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        databases: ["mongodb", "MySql", "sqlite"],
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "postman"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentFocus: "No Focus point at this time",
+    currentFocus: "App Devlopment and backend",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
 ```
