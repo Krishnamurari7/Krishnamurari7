@@ -1,12 +1,12 @@
 ### Hi there 👋
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Pratap Singh! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Krishna Murari! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Associate Technical Lead at <a href="https://www.oneorigin.us/">OneOrigin
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/intent/follow?screen_name=misteranmol)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol098/)
+[![Linkedin: anmol](https://img.shields.io/badge/-Krishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/krishna-murari-kumar-796b97250/)](https://www.linkedin.com/in/krishna-murari-kumar-796b97250//)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
 ![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
@@ -93,7 +93,7 @@ Sunday                   905 commits         █████░░░░░░�
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Dubai
+🕑︎ Time Zone: Asia/India
 
 💬 Programming Languages: 
 TypeScript               11 hrs 5 mins       ██████████████████░░░░░░░   71.94 % 
@@ -102,12 +102,8 @@ SQL                      54 mins             █░░░░░░░░░░�
 JSON                     53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 textmate                 12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
-🔥 Editors: 
-WebStorm                 15 hrs 8 mins       █████████████████████████   98.25 % 
-DataGrip                 16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
-
 💻 Operating System: 
-Mac                      15 hrs 24 mins      █████████████████████████   100.00 % 
+Window                      15 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
